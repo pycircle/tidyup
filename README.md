@@ -1,8 +1,8 @@
 ## Sytuacja:
-Pewnie każdy z nas posiadia taki folder w swoim komputerze do którego wrzuca wszystko, czego nie potrzebuje (ale może się przydać). Zazwyczaj kończymy wtedy z folderem zawierającym ponad 100 przeróżnych plików.
+Pewnie każdy z nas posiada taki folder w swoim komputerze do którego wrzuca wszystko, czego aktualnie nie potrzebuje (ale może się przydać). Zazwyczaj kończymy wtedy z folderem zawierającym ponad 100 przeróżnych plików.
 
 ## Rozwiązanie:
-Napisz skrypt który pokataloguje pliki po zadanym kluczu. Pokataloguje np. po rozszerzeniu, znaczy, że skrypt utworzy folder o nazwie "Adobe Photoshop" i zostaną do niego przeniosione wszystkie pliki z rozszerzeniem ".psd".
+Napisz skrypt który pokataloguje pliki po zadanym KLUCZU. Pokataloguje np. po rozszerzeniu, znaczy, że skrypt utworzy folder o nazwie "Adobe Photoshop" i przeniesie do niego wszystkie pliki z rozszerzeniem ".psd".
 
 tree przed/
 ## Oczekiwane Efekty:
@@ -18,8 +18,8 @@ przed
 
 0 directories, 7 files
 ```
-```
 tree po/
+```
 po
 ├── Adobe InDesign
 │   └── newlogo.indd
