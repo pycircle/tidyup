@@ -4,8 +4,8 @@ Pewnie każdy z nas posiada taki folder w swoim komputerze do którego wrzuca ws
 ## Rozwiązanie:
 Napisz skrypt który pokataloguje pliki po zadanym KLUCZU. Pokataloguje np. po rozszerzeniu, znaczy, że skrypt utworzy folder o nazwie "Adobe Photoshop" i przeniesie do niego wszystkie pliki z rozszerzeniem ".psd".
 
-tree przed/
 ## Oczekiwane Efekty:
+tree przed/
 ```
 przed
 ├── Bardzo ważne rzeczy.docx
