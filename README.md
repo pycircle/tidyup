@@ -49,6 +49,6 @@ Skrypt musi przyjmować parametry pozycyjne:
 **Skrypt który jest do wykonania na zajęciach, ma układać pliki tylko wg rozszerzeń. JEDNAK powinien być łatwo
 rozszerzalny - to znaczy, że jeżeli w pewnym momencie życia chcielibyśmy dodać jakiś nowy sposób katologowania np. po
 rozmiarze, rozszerzenie skryptu o nowy KLUCZ nie powinno stanowić większego problemu. Najlepiej, jeżeli była by to
-kwestia dodania jedej instrukcji, funkcji itp.**
+kwestia dodania jednej instrukcji, funkcji itp.**
 
 W pliku `snippets.py` przydatne fragmenty kodu.
