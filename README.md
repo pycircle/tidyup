@@ -43,7 +43,7 @@ Skrypt musi przyjmować parametry pozycyjne:
 ```
 * pierwszym parametrem pozycyjnym jest folder zawiarający nieład
 * drugim parametrem pozycyjnym jest folder do którego mają zostać przeniesione pokatologowane pliki (nie musi istnieć)
-* trzecim parametrem pozycyjnym jest KLUCZ. Może to być np. EXTENSTION, CDATE (data utworzenia), MDATA (data
+* trzecim parametrem pozycyjnym jest KLUCZ. Może to być np. EXTENSTION, CDATE (data utworzenia), MDATE (data
   modyfikacji)
 
 **Skrypt który jest do wykonania na zajęciach, ma układać pliki tylko wg rozszerzeń. JEDNAK powinien być łatwo
