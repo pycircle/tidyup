@@ -46,9 +46,9 @@ Skrypt musi przyjmować parametry pozycyjne:
 * trzecim parametrem pozycyjnym jest KLUCZ. Może to być np. EXTENSTION, CDATE (data utworzenia), MDATA (data
   modyfikacji)
 
-  ** Skrypt który jest do wykonania na zajęciach, ma układać pliki tylko wg rozszerzeń. JEDNAK powinien być łatwo
-  rozszerzalny - to znaczy, że jeżeli w pewnym momencie życia chcielibyśmy dodać jakiś nowy sposób katologowania np. po
-  rozmiarze, rozszerzenie skryptu o nowy KLUCZ nie powinno stanowić większego problemu. Najlepiej, jeżeli była by to
-  kwestia dodania jedej instrukcji, funkcji itp. **
+**Skrypt który jest do wykonania na zajęciach, ma układać pliki tylko wg rozszerzeń. JEDNAK powinien być łatwo
+rozszerzalny - to znaczy, że jeżeli w pewnym momencie życia chcielibyśmy dodać jakiś nowy sposób katologowania np. po
+rozmiarze, rozszerzenie skryptu o nowy KLUCZ nie powinno stanowić większego problemu. Najlepiej, jeżeli była by to
+kwestia dodania jedej instrukcji, funkcji itp.**
 
-  W pliku snippets.py przydatne fragmenty kodu.
+W pliku snippets.py przydatne fragmenty kodu.
