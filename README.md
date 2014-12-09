@@ -51,4 +51,4 @@ rozszerzalny - to znaczy, że jeżeli w pewnym momencie życia chcielibyśmy dod
 rozmiarze, rozszerzenie skryptu o nowy KLUCZ nie powinno stanowić większego problemu. Najlepiej, jeżeli była by to
 kwestia dodania jedej instrukcji, funkcji itp.**
 
-W pliku snippets.py przydatne fragmenty kodu.
+W pliku `snippets.py przydatne` fragmenty kodu.
