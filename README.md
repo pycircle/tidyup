@@ -32,7 +32,7 @@ po
 │   └── special_characters.zip
 └── PNG images
     ├── Zrzut ekranu 2014-12-09 o 15.03.36.png
-        └── conflicts.png
+    └── conflicts.png
 
 5 directories, 7 files
 ```
